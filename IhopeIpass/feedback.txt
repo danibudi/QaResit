@@ -1,0 +1,10 @@
+the code was recorded with recorder without any code improvements. Only one test-case present.
+TODO:
+- add tests for edge cases
+- missing CI/CD amd Jenkins job.
+- missing assertions - the CI/CD will not show the test as failed
+- missing test library - unittest, pytest, etc
+- use settings for the constants /urls/ to follow DNRY
+- use SW metrics to improve the qualty of the code
+
+- missing penetration test
